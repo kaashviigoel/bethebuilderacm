@@ -1,30 +1,76 @@
-# Compact or paginated view
+# 🌤️ VibeCast
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A vibe-based weather web app designed to make daily planning aesthetic, intuitive, and fun — especially for college students.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kaashvi1524hp-6370s-projects/v0-bethebuilderacm)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/itXMXE7C230)
+🔗 Live Demo: https://v0-bethebuilderacm-rho.vercel.app/
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 📌 Overview
 
-## Deployment
+VibeCast was built during the **Prompt to Production** event hosted by **ACM-VIT** and powered by **Vercel**.  
 
-Your project is live at:
+The project explores how AI-assisted development can accelerate turning an idea into a production-ready application.
 
-**[https://vercel.com/kaashvi1524hp-6370s-projects/v0-bethebuilderacm](https://vercel.com/kaashvi1524hp-6370s-projects/v0-bethebuilderacm)**
+---
 
-## Build your app
+## ❓ The Problem
 
-Continue building your app on:
+Traditional weather applications often present data in a technical and clinical way. While accurate, they fail to answer questions students actually care about, such as:
 
-**[https://v0.app/chat/itXMXE7C230](https://v0.app/chat/itXMXE7C230)**
+- Is today good for hanging out on campus?
+- Should I plan outdoor activities?
+- Will weather affect my daily routine?
 
-## How It Works
+The emotional and lifestyle context — the *"vibe"* of the day — is usually missing.
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 💡 The Solution
+
+VibeCast transforms raw weather data into relatable and lifestyle-focused insights using a modern, aesthetic interface.
+
+It helps users plan their day by translating weather conditions into moods, activity recommendations, and simplified forecasts.
+
+---
+
+## ✨ Features
+
+### 🎭 Vibe-Based Forecasts
+- Converts weather data into relatable daily moods
+- Examples: *Hot Girl Summer*, *Dark Academia*, etc.
+
+### 🚴 Activity Recommendations
+- Suggests activities based on real-time weather
+- Highlights golden-hour opportunities
+- Helps users plan outdoor experiences
+
+### 🎨 Gen-Z Inspired UI
+- Neon aesthetic design
+- Clean, engaging, and mobile-friendly interface
+
+### 📅 Simplified 5-Day Planning
+- Highlights best time windows for outdoor activities
+- Helps avoid missing ideal weather moments
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** JavaScript / TypeScript
+- **AI Development Assistance:** v0 by Vercel
+- **Deployment:** Vercel
+- **UI Styling:** CSS
+
+---
+
+## 🚀 Development Process
+
+This project demonstrates rapid AI-assisted development:
+
+1. Idea conceptualized during Prompt to Production event
+2. UI and component generation using v0 AI assistant
+3. Iterative feature enhancement and testing
+4. Seamless deployment using Vercel ecosystem
+
+---
